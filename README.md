@@ -33,3 +33,6 @@ This repository contains a simple Node.js application that fetches movie data us
 
 3. The movie data will be fetched from the OMDB API and logged to the console.
 
+## Sample Pictures
+![image](https://github.com/Sabandogan/movie-data-fetcher/assets/115669964/bbec738f-50b3-4fd3-a244-8d9d2cf8d25e)
+
