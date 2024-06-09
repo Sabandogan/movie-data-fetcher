@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Use Public Api</title>
+    <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+
+    <div class="container">
+        <img src="<%= Poster %>" alt="">
+        <h1> 
+            <%= Title %>
+            <span class="rating"> imdb Rating <%= imdbRating %> </span>
+            <div class="alt">
+                <p> <%= Year %></p>
+                <p> Released <%= Released  %></p>
+                <p>Language : <%= Language %> </p>
+                <p>Country : <%= Country %> </p>
+                <p>Writer : <%= Writer %> </p>
+                <p>
+                    PLot : <%= Plot %>
+                </p>
+
+                <p>Awards : <%= Awards %></p>
+                <p>Actors :  <%= Actors %></p>
+                <p class="seasons">Total Seasons : <%= totalSeasons %></p>
+
+                <a href="https://www.netflix.com/tr/title/70143836" class="watch" target="_blank">
+                    Watch Now
+                </a>
+    
+                
+            </div>
+
+            
+    
+        </h1>
+        
+            
+        
+        
+        
+    </div>
+ 
+</body>
+</html>
