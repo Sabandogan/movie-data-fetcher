@@ -21,7 +21,7 @@ This repository contains a simple Node.js application that fetches movie data us
     npm install
     ```
 
-3. Obtain an OMDB API key from [OMDB API](http://www.omdbapi.com/apikey.aspx) and replace `YOUR_OMDB_API_KEY` in the code with your actual API key.
+3. Obtain an OMDB API key from https://www.omdbapi.com/ and replace `YOUR_OMDB_API_KEY` in the code with your actual API key.
 
 ## Usage
 
